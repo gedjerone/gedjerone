@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Maksim, Golang/Rust developer.
+
+### 🛠 &nbsp;Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;
+<imt src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka"  lt="Apache Kafka" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
 <!--
 **gedjerone/gedjerone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
